@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\application\application.csproj" />
+    <ProjectReference Include="..\domain\domain.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Language>8</Language>
+    <RootNamespace>Microservice.Persistence</RootNamespace>
+    <AssemblyName>Microservice.Persistence</AssemblyName>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Language>8</Language>
+    <RootNamespace>Microservice.Shared</RootNamespace>
+    <AssemblyName>Microservice.Shared</AssemblyName>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\shared\shared.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Language>8</Language>
+    <RootNamespace>Microservice.Domain</RootNamespace>
+    <AssemblyName>Microservice.Domain</AssemblyName>
+  </PropertyGroup>
+
+</Project>
